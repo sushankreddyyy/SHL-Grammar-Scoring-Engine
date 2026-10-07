@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment / secrets
+.env
+.kaggle/
+*.pem
+
+# Private competition data
+data/
+datasets/
+*.wav
+*.zip
+
+# Generated intermediate artifacts
+artifacts/
+shl_artifacts/

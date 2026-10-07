@@ -1,0 +1,9 @@
+This repository package contains the cleaned notebook and supporting documentation.
+
+The Kaggle submission CSV is intentionally not synthesized here because the completed
+submission file was generated in the user's private Google Drive environment. Before
+publishing the repository, place the actual `submission.csv` at the repository root if
+you want the output file included in GitHub.
+
+The validated submission used 216 rows with columns:
+filename,label
